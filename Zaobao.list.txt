@@ -1,0 +1,3 @@
+# zaobao
+DOMAIN-SUFFIX,zaobao.com
+DOMAIN-SUFFIX,zaobao.com.sg
